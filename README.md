@@ -151,3 +151,7 @@ Endpoints for standalone file uploading and batch management.
 | `POST` | `/api/files` | Upload a file directly and return its URL |
 | `POST` | `/api/files/batch-delete` | Batch delete multiple files |
 | `DELETE` | `/api/files/{id}` | Delete a specific file by its ID |
+
+
+<img width="1129" height="697" alt="image" src="https://github.com/user-attachments/assets/d909fb79-46af-45c1-95c0-53e4477f5c26" />
+

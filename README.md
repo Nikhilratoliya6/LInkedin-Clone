@@ -1,4 +1,6 @@
 # LinkedIn Clone Microservices API Documentation
+<img width="1431" height="821" alt="image" src="https://github.com/user-attachments/assets/15f98c61-615a-4990-939a-83c6fcede6aa" />
+
 
 This documentation outlines the RESTful API endpoints available in the LinkedIn Clone microservices architecture. The endpoints are grouped logically by their domains.
 
